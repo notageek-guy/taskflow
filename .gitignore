@@ -14,6 +14,8 @@
 /out/
 
 # production
+.env 
+.env.local 
 /build
 
 # misc
